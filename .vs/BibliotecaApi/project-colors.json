@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd48f9b7-d48b-421d-bdd8-6d768127f623": {
+      "ProjectGuid": "bd48f9b7-d48b-421d-bdd8-6d768127f623",
+      "DisplayName": "BibliotecaApi",
+      "ColorIndex": 0
+    },
+    "709688f8-a272-4b88-a492-5bc3cc554673": {
+      "ProjectGuid": "709688f8-a272-4b88-a492-5bc3cc554673",
+      "DisplayName": "BibliotecaBusiness",
+      "ColorIndex": 1
+    },
+    "ec03f722-c9c0-4a28-bee4-80e98efe9c12": {
+      "ProjectGuid": "ec03f722-c9c0-4a28-bee4-80e98efe9c12",
+      "DisplayName": "BibliotecaInfrastructure",
+      "ColorIndex": 2
+    },
+    "59cd6903-01e6-46fb-88e1-463676435780": {
+      "ProjectGuid": "59cd6903-01e6-46fb-88e1-463676435780",
+      "DisplayName": "BibliotecaDomain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

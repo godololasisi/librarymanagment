@@ -1,0 +1,14 @@
+﻿using BibliotecaDomain.Users;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BibliotecaBusiness.Interfaces
+{
+    public interface IUserRepository
+    {
+        Task<List<User>> GetListAsync();
+    }
+}

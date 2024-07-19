@@ -1,0 +1,11 @@
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\bin\Debug\net6.0\BibliotecaDomain.deps.json
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\bin\Debug\net6.0\BibliotecaDomain.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\bin\Debug\net6.0\ref\BibliotecaDomain.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\bin\Debug\net6.0\BibliotecaDomain.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\BibliotecaDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\BibliotecaDomain.AssemblyInfoInputs.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\BibliotecaDomain.AssemblyInfo.cs
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\BibliotecaDomain.csproj.CoreCompileInputs.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\BibliotecaDomain.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\ref\BibliotecaDomain.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaDomain\obj\Debug\net6.0\BibliotecaDomain.pdb

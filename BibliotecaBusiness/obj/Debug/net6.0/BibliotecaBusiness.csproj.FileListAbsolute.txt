@@ -1,0 +1,17 @@
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.csproj.AssemblyReference.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.AssemblyInfoInputs.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.AssemblyInfo.cs
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.csproj.CoreCompileInputs.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.deps.json
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.runtimeconfig.json
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\ref\BibliotecaBusiness.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaBusiness.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaDomain.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\bin\Debug\net6.0\BibliotecaDomain.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.csproj.CopyComplete
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\ref\BibliotecaBusiness.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaBusiness\obj\Debug\net6.0\BibliotecaBusiness.genruntimeconfig.cache

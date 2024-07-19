@@ -1,0 +1,17 @@
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.csproj.AssemblyReference.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.AssemblyInfoInputs.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.AssemblyInfo.cs
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.csproj.CoreCompileInputs.cache
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaInfrastructure.deps.json
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaInfrastructure.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\ref\BibliotecaInfrastructure.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaInfrastructure.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaBusiness.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaDomain.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaBusiness.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\bin\Debug\net6.0\BibliotecaDomain.pdb
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.csproj.CopyComplete
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\ref\BibliotecaInfrastructure.dll
+D:\GestionBiblioteca\BibliotecaApi\BibliotecaInfrastructure\obj\Debug\net6.0\BibliotecaInfrastructure.pdb
